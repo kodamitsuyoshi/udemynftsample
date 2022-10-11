@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 contract MyNFT is ERC721 {
 
 
-    constructor() ERC721("MyNFT","MYNFT"){
+    constructor() ERC721("MyNFTkoda","MYNFTK"){
 
     }
 
